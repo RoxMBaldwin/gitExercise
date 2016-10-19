@@ -9,7 +9,7 @@
 1. Add your changes to the staging area.
 1. Check the status to confirm that your changes have been added to the staging area.
 1. Commit the changes to your repository with the message "added first line"
-1. Repeat steps 7-10, adding the second, third, fourth, and fifth lines of the
+1. Repeat steps 7-11, adding the second, third, fourth, and fifth lines of the
 song to what you already have written. Commit these lines one at a time.
 1. Run the fancy git log command (`git log --oneline --graph --decorate --all`)
 to see your commit history. You should see your 5 commits have been added to the
