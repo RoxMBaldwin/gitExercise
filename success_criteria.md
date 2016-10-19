@@ -1,0 +1,4 @@
+- [] Stage files
+- [] Commit files
+- [] Push files
+- [] Clone repositories
